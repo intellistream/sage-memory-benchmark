@@ -7,7 +7,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "isage-memory-benchmark"
-dynamic = ["version"]
+version = "0.1.0.1"
 description = "Memory system benchmarking placeholder for the SAGE ecosystem"
 readme = "README.md"
 requires-python = ">=3.11"
